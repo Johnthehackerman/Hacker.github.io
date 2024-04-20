@@ -1,0 +1,131 @@
+body,html{
+  min-height: 100%;
+}
+.body1{
+  background-image: url('/Sedan.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  right: 50px;
+}
+  .body2{
+  background-image: url('/Offroad.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  right: 50px;
+}
+h1{
+  color: white;
+  background: linear-gradient(to right, #570101, #6a3737) ;
+  height: 80px;
+  width: 100%;
+  font-size: 50px;
+  line-height: 80px;
+  padding: 0 100px;
+}
+
+
+p{
+  color: white;
+  background: linear-gradient(to bottom, #570101, #6a3737) ;
+  font-size: 40px;
+  width: auto;
+  border-radius: 50px;
+}
+.title{
+  color: white;
+  font-size: 70px;
+  width: 200px;
+  background-color: red;
+  font-family: Sans-Serif;
+}
+
+div {
+  font-size: 500px;
+  color: khaki;
+  width: 500px;
+  height: 500px;
+  background: transparent;
+  transition: width 4s, height 4s, transform 3s ;
+  border: 50%;
+  border-radius: 200px;
+  border-width: 200px;
+  display: flex;
+  align-content: center;
+  text-align-last: center;
+  background-image: url(W1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+div:hover{
+  border: 10%;
+  border-radius: 100px;
+  width: 1000px;
+  height: 1000px;
+  transform: rotate(360deg);
+  animation-delay: 1s;
+  background-repeat: no-repeat;
+}
+.type1{
+  color: white;
+  background-image: url('/Typer.jpg');
+  width: 20%;
+  height: 50px;
+  font-size: 50px;
+  font-family: Segoe UI;
+  margin-left: 20px;
+  border-radius: 50px;
+}
+.type2{
+  color: white;
+  background-image: url('/Typer.jpg');
+  width: 20%;
+  height: 50px;
+  font-size: 50px;
+  font-family: Segoe UI;
+  border-radius: 50px;
+}
+.type3{
+  color: white;
+  background-image: url('/Typer.jpg');
+  width: 20%;
+  height: 50px;
+  font-size: 50px;
+  font-family: Segoe UI;
+  border-radius: 50px;
+}
+.type4{
+  color: white;
+  background-image: url('/Typer.jpg');
+  width: 20%;
+  height: 50px;
+  font-size: 50px;
+  font-family: Segoe UI;
+  border-radius: 50px;
+}
+.type5{
+  color: white;
+  background-image: url('/Typer.jpg');
+  width: 20%;
+  height: 50px;
+  font-size: 50px;
+  font-family: Segoe UI;
+  border-radius: 50px;
+ 
+}
+.ride{
+  font-family: Sans-Serif;
+  color: white;
+  background: linear-gradient(to bottom, #570101, #6a3737 );
+  t
+  width: 100px;
+  height: 100px;
+  font-size: 70px;
+}
+.S{
+  font-size: 60px;
+  color: #ffd;
+}
+
+
