@@ -1,0 +1,40 @@
+
+body{
+  background-color: #ebe8ec;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  right: 50px;
+}
+div.polaroid {
+  width: 700px;
+  box-shadow: 0 4px 8px 0 rgb(60, 60, 69), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  color: red;
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+div.container {
+  padding: 10px;
+  background-color: body,html{
+  min-height: 100%;
+}
+
+}
+.text{
+  color: white;
+  background: linear-gradient(to right, #1d0000,darkred,#6a3737);
+  height: 50px;
+box-shadow: 0 4px 8px 0 rgb(60, 60, 69), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+.p1 {
+  background: linear-gradient(to top , #1d0000,darkred,#6a3737);
+  color: white;
+  width: 60%;
+  height: 30%;
+  font-size: 20px;
+  box-shadow: 0 4px 8px 0 rgb(60, 60, 69), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
